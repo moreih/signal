@@ -1,6 +1,7 @@
 {
   "message": "نسخه جدید با قابلیت های جدید را حتما دانلپد کنید",
   "lastVersion": 10,
+  "lastVersionName": "1.4.5",
   "directUrl": "https://www.google.com",
   "googlePlayUrl": "https://www.google.com",
   "forceUpdate": true,
