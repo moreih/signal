@@ -1,1 +1,13 @@
-test
+{
+  "message": "نسخه جدید با قابلیت های جدید را حتما دانلپد کنید",
+  "lastVersion": 10,
+  "directUrl": "https://www.google.com",
+  "googlePlayUrl": "https://www.google.com",
+  "forceUpdate": true,
+  "InactivVersion": [
+    1,
+    2,
+    3,
+    4
+  ]
+}
