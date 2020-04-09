@@ -2,8 +2,8 @@
   "message": "نسخه جدید با قابلیت های جدید را حتما دانلپد کنید",
   "lastVersion": 10,
   "lastVersionName": "1.4.5",
-  "directUrl": "https://www.google.com",
-  "googlePlayUrl": "https://www.google.com",
+  "directUrl": "https://github.com/moreih/signal/archive/master.zip",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en",
   "forceUpdate": true,
   "InactiveVersion": [
     1,
