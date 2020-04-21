@@ -4,7 +4,7 @@
   "lastVersionName": "1.5.5",
   "directUrl": "https://github.com/moreih/signal/archive/master.zip",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "InactiveVersion": [
     2,
     3,
