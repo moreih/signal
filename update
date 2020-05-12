@@ -4,7 +4,7 @@
   "lastVersionName": "5",
   "directUrl": "",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.signalbourseiran.signal&hl=en",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "InactiveVersion": [
     2,
     3,
