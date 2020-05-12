@@ -1,9 +1,9 @@
 {
   "message": "نسخه جدید با قابلیت های جدید را حتما دانلود کنید \n - رفع چند باگ \n - افزوده شدن چند ویژگی جدید",
-  "lastVersion": 1,
-  "lastVersionName": "1.3.5",
-  "directUrl": "https://raw.githubusercontent.com/moreih/signal/master/signal%20beta.apk",
-  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en",
+  "lastVersion": 5,
+  "lastVersionName": "5",
+  "directUrl": "",
+  "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.signalbourseiran.signal&hl=en",
   "forceUpdate": false,
   "InactiveVersion": [
     2,
