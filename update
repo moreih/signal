@@ -1,7 +1,7 @@
 {
-  "message": "نسخه بروز را با قابلیت های جدید حتما دانلود کنید \n - اضافه شدن قسمت آموزش ویژه\n - اضافه شدن قسمت آموزش رایگان \n - افزوده شدن چند ویژگی جدید",
-  "lastVersion": 7,
-  "lastVersionName": "7",
+  "message": "اضافه شدن بخش پشتیبانی آنلاین  \n - اضافه شدن قسمت صندوق پیام\n - اضافه شدن قسمت اخبار \n - افزوده شدن چند ویژگی جدید",
+  "lastVersion": 8,
+  "lastVersionName": "8",
   "directUrl": "http://instaappiran.com/signal-bourse.apk",
   "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.signalbourseiran.signal&hl=en",
   "forceUpdate": true,
@@ -9,6 +9,8 @@
     2,
     3,
     4,
-    5
+    5,
+    6,
+    7,
   ]
 }
